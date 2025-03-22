@@ -45,6 +45,8 @@
 
           // output
           echo "The area of the trapezoid is " . $area . " cm².";
+          echo "<br />";
+          echo "<br />";
           echo "The perimeter of the trapezoid is " . $perimeter . " cm.";
           ?>
         </div>
